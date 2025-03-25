@@ -6,7 +6,7 @@ A simple Python Flask server meant to receive data (GPS coordinates) from one ap
 - Clone the repository containing the Flask server code
 - Install dependencies
   ```
-  pip install flask
+  pip install -r requirements.txt
   ```
 - Run the server locally to check if it works (optional)
   ```
