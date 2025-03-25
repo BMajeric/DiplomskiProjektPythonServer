@@ -25,7 +25,7 @@ A simple Python Flask server meant to receive data (GPS coordinates) from one ap
      ```
    - Response example:
      ```
-     {"message": "Location received!"}
+     {"message": "Data received successfully"}
      ```
 2. GET /get
    - Gets last stored instance of data (NReal app pulls the GPS coordinates)
